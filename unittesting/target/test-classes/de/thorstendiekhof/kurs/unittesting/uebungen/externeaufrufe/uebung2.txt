@@ -1,0 +1,3 @@
+Teste die Klassen! Ist das einfach möglich? Wo gibt es trotz
+Entkopplung Probleme? Wie könnte dies gelöst werden?
+

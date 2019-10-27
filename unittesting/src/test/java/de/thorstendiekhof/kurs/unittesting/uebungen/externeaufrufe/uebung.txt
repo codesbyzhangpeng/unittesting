@@ -1,0 +1,21 @@
+Das neue StartUp MietMax UG hat eine geniale Idee. Sie wollen,
+statt immer nur Wohnungen, die aktuell zur Vermietung ausgeschrieben 
+sind, zur Zwischenmiete auf ihrer coolen Internetplattform anzubieten, 
+nun auch normale Läden, Büros  oder Werkstätten über Nacht an 
+Touristen vermieten. Win Win - sozusagen. Problematisch ist, dass 
+sie aktuell eine externe Wohnungsdatenbank ansprechen, die nur Wohnungen enthält. 
+
+Das StartUp möchte ihr Programm so erweitern, dass sich ohne
+Probleme auch weitere Datenbanken und Webservices angesprechen
+kann. Du wurdest beauftragt, das Programm anzupassen. 
+Du brauchst keine neuen Services ansprechen.
+
+Du findest im Code-Package einige Klassen, die eine sehr enge
+Kopplung aufweisen. Wir wollen beide jedoch unabhängig voneinander
+testen können.
+
+Deine Aufgabe ist es, die Klassen, durch das Kapseln von 
+Aufrufen, zu entkoppeln.
+
+Du findest im Code-Package auch eine Musterlösung. Wie immer, 
+gibt es mehrere Lösungsmöglichkeiten.
